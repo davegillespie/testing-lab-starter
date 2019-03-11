@@ -17,10 +17,8 @@ describe("tests for change-handler", function() {
     });
 
     it("isPaymentSufficient()", function() {
-        // Arrage
+        // Arrange
         // let changeHandler = new ChangeHandler ({
-        //     amountDue: 10,
-        //     cashTendered: 2
         // });
         let changeHandler = new ChangeHandler(20,30);
         // Assert & Act
@@ -31,7 +29,7 @@ describe("tests for change-handler", function() {
         // Arrange
         // let changeHandler = new ChangeHandler ({
         //     amountDue: 100,
-        //     cashTendered: 126
+        //     cashTendered: 120
         // });
         let changeHandler = new ChangeHandler(100,120);
         // Assert
