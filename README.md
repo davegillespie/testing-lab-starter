@@ -12,3 +12,4 @@ Once the dependencies are downloaded, you're all set. Run `karma start` to start
 
 If you want to add new files, add source files to the `src` folder and test files to the `tests` folder. Conventionally, your test files should end with `*.spec.js`, though this is not required.# testing-lab-starter
 # testing-lab-starter
+# testing-lab-starter
